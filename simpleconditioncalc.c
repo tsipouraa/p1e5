@@ -5,7 +5,7 @@ int main (void)
 	double a;
 	double b;
 	char c;
-	printf("Dwse enan xaraktira 'S'h 'M\n");
+	printf("Dwse enan xaraktira 'S' h 'M:\n");
 	scanf("%c", &c);
 	printf("Dwse duo dekadikous arithmous\n");
 	scanf("%lf %lf", &a, &b);
